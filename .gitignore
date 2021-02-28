@@ -1,0 +1,4 @@
+*.txt
+chromedriver*
+*.bak
+index.ipynb
